@@ -28,8 +28,6 @@ git clone https://github.com/omar49511/FolderStructureCreator.git
 ```
 ![Ejecutar Comando](https://github.com/omar49511/FolderStructureCreator/assets/72781778/adc3e291-e900-433a-b5d6-e8a3c5d010ec)
 
-![Ejecutar Comando](images/capture1.png)
-
 ### Paso 2: Personalización
 
 Sigue las indicaciones para personalizar la estructura:
