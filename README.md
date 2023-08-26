@@ -18,11 +18,15 @@ FolderStructureCreator es una herramienta de línea de comandos que simplifica l
 2. Sigue las indicaciones para personalizar la estructura según tus preferencias.
 3. ¡Listo! La estructura de carpetas y archivos se generará en la carpeta actual.
 
-## Capturas de Pantalla
+## Instalación
 
 ### Paso 1: Ejecutar el Comando
 
-Ejecuta el comando en la terminal:
+Ejecuta el comando en la terminal de git:
+```
+git clone https://github.com/omar49511/FolderStructureCreator.git
+```
+![Ejecutar Comando](https://github.com/omar49511/FolderStructureCreator/assets/72781778/adc3e291-e900-433a-b5d6-e8a3c5d010ec)
 
 ![Ejecutar Comando](images/capture1.png)
 
