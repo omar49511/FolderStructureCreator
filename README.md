@@ -8,12 +8,13 @@ FolderStructureCreator es una herramienta de línea de comandos que simplifica l
 
 1. Clona este repositorio o descárgalo como ZIP.
 2. Asegúrate de tener PowerShell instalado en tu sistema.
-3. Abre una terminal y navega hasta la carpeta del proyecto.
-4. Ejecuta `.\estructura.bat nombre_del_proyecto` para crear la estructura de carpetas y archivos.
+3. Agrega la carpeta a las variables de entorno.
+4. Abre una terminal y navega hasta la carpeta del proyecto.
+5. Ejecuta `.\estructura.bat nombre_del_proyecto` para crear la estructura de carpetas y archivos.
 
 ## Uso
 
-1. Ejecuta el comando `.\estructura.bat nombre_del_proyecto` en la terminal.
+1. Ejecuta el comando `mpa nombre_del_proyecto` en la terminal.
 2. Sigue las indicaciones para personalizar la estructura según tus preferencias.
 3. ¡Listo! La estructura de carpetas y archivos se generará en la carpeta actual.
 
