@@ -30,19 +30,10 @@ Sigue las indicaciones para agregar la ruta:
 
 1. Ejecuta el comando `mpa nombre_del_proyecto` en la terminal.
    
-   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7c38104e-81bf-4271-a616-caf0b6be195f)
-   
-   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/902b1f66-abcb-417e-b911-ba9d0fa401ca)
-
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7ca1d802-791a-4f52-98b7-93ea329cee97)
 
-   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/c24c88dc-35d2-4089-9c74-1be96cd8262b)
-
-  
-3. ¡Listo! La estructura de carpetas y archivos se generará en la carpeta actual.
+2. ¡Listo! La estructura de carpetas y archivos se generará en la carpeta actual.
    
-   
-
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/ab697106-547a-4336-b75c-48fe91d941af)
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/eae4bf32-6b80-41c5-b2ef-7282d534bc99)
 
