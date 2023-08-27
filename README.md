@@ -6,39 +6,30 @@ FolderStructureCreator es una herramienta de línea de comandos que simplifica l
 
 ## Instalación
 
-1. Clona este repositorio o descárgalo como ZIP.
-2. Asegúrate de tener PowerShell instalado en tu sistema.
-3. Agrega la carpeta a las variables de entorno.
-4. Abre una terminal y navega hasta la carpeta del proyecto.
-5. Ejecuta `.\estructura.bat nombre_del_proyecto` para crear la estructura de carpetas y archivos.
-
-## Uso
-
-1. Ejecuta el comando `mpa nombre_del_proyecto` en la terminal.
-2. Sigue las indicaciones para personalizar la estructura según tus preferencias.
-3. ¡Listo! La estructura de carpetas y archivos se generará en la carpeta actual.
-
-## Instalación
-
 ### Paso 1: Ejecutar el Comando
 
-Ejecuta el comando en la terminal de git:
+Ejecuta el comando en la terminal de git recuerda posicionarte en la carpeta donde quieras guardar el repositorio.
 ```
 git clone https://github.com/omar49511/FolderStructureCreator.git
 ```
 ![Ejecutar Comando](https://github.com/omar49511/FolderStructureCreator/assets/72781778/adc3e291-e900-433a-b5d6-e8a3c5d010ec)
 
-### Paso 2: Personalización
+### Paso 2: Agregar la carpeta a las variables de entorno
 
-Sigue las indicaciones para personalizar la estructura:
+Sigue las indicaciones para agregar la ruta:
+![buscar editar variables de entorno](https://github.com/omar49511/FolderStructureCreator/assets/72781778/b21ad7ab-92f9-45c5-b700-ec8a20ab2679)
+![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/e5dda103-1508-4933-9932-d632af7354f3)
+![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/363fd11c-f3a1-4f4e-98cd-4d63a187d6d4)
+![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/ca55202d-7e88-40e5-b2cf-8a4a41982116)
 
-![Personalización](images/capture2.png)
+## Uso
 
-### Paso 3: Estructura Creada
-
-La estructura de carpetas y archivos se genera exitosamente:
-
-![Estructura Creada](images/capture3.png)
+1. Ejecuta el comando `mpa nombre_del_proyecto` en la terminal.
+   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7c38104e-81bf-4271-a616-caf0b6be195f)
+  
+2. ¡Listo! La estructura de carpetas y archivos se generará en la carpeta actual.
+   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/ab697106-547a-4336-b75c-48fe91d941af)
+   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/eae4bf32-6b80-41c5-b2ef-7282d534bc99)
 
 ## Contribución
 
