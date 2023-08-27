@@ -16,7 +16,7 @@ git clone https://github.com/omar49511/FolderStructureCreator.git
 
 Sigue las indicaciones para agregar la ruta:
 
-<div align="center">
+
 
    ![buscar editar variables de entorno](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7836c4d0-5af4-4ee3-8a0d-c116148f1df3)
 
@@ -26,7 +26,7 @@ Sigue las indicaciones para agregar la ruta:
 
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/ca55202d-7e88-40e5-b2cf-8a4a41982116)
    
-</div>
+
 
 ## Uso
 
