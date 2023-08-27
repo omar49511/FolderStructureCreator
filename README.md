@@ -1,11 +1,5 @@
 # FolderStructureCreator
 
-<div align="center">
-
-   <img src="https://github.com/omar49511/FolderStructureCreator/assets/72781778/a52a8215-bf29-4b98-81d8-75117a78244f" alt="Captura de Pantalla" width="300">
-   
-</div>
-
 FolderStructureCreator es una herramienta de línea de comandos que simplifica la creación de estructuras de carpetas y archivos para proyectos de Aplicaciones de Páginas Múltiples (MPA).
 
 ## Instalación
@@ -22,13 +16,17 @@ git clone https://github.com/omar49511/FolderStructureCreator.git
 
 Sigue las indicaciones para agregar la ruta:
 
-![buscar editar variables de entorno](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7836c4d0-5af4-4ee3-8a0d-c116148f1df3)
+<div align="center">
 
-![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/e5dda103-1508-4933-9932-d632af7354f3)
+   ![buscar editar variables de entorno](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7836c4d0-5af4-4ee3-8a0d-c116148f1df3)
 
-![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/363fd11c-f3a1-4f4e-98cd-4d63a187d6d4)
+   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/e5dda103-1508-4933-9932-d632af7354f3)
 
-![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/ca55202d-7e88-40e5-b2cf-8a4a41982116)
+   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/363fd11c-f3a1-4f4e-98cd-4d63a187d6d4)
+
+   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/ca55202d-7e88-40e5-b2cf-8a4a41982116)
+   
+</div>
 
 ## Uso
 
