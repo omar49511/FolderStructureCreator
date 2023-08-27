@@ -1,6 +1,6 @@
 # FolderStructureCreator
 
-![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/a52a8215-bf29-4b98-81d8-75117a78244f)
+<img src="https://github.com/omar49511/FolderStructureCreator/assets/72781778/a52a8215-bf29-4b98-81d8-75117a78244f" alt="Captura de Pantalla" width="300">
 
 FolderStructureCreator es una herramienta de línea de comandos que simplifica la creación de estructuras de carpetas y archivos para proyectos de Aplicaciones de Páginas Múltiples (MPA).
 
