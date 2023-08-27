@@ -34,6 +34,9 @@ Sigue las indicaciones para agregar la ruta:
    
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/902b1f66-abcb-417e-b911-ba9d0fa401ca)
 
+![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7ca1d802-791a-4f52-98b7-93ea329cee97)
+
+
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/c24c88dc-35d2-4089-9c74-1be96cd8262b)
 
   
