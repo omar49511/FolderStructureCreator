@@ -1,6 +1,6 @@
 # FolderStructureCreator
 
-<div align="center;">
+<div style="align-text:center;">
    
    <img src="https://github.com/omar49511/FolderStructureCreator/assets/72781778/a52a8215-bf29-4b98-81d8-75117a78244f" alt="Captura de Pantalla" width="300">
    
