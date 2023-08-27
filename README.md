@@ -17,6 +17,7 @@ git clone https://github.com/omar49511/FolderStructureCreator.git
 ### Paso 2: Agregar la carpeta a las variables de entorno
 
 Sigue las indicaciones para agregar la ruta:
+
 ![buscar editar variables de entorno](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7836c4d0-5af4-4ee3-8a0d-c116148f1df3)
 ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/e5dda103-1508-4933-9932-d632af7354f3)
 ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/363fd11c-f3a1-4f4e-98cd-4d63a187d6d4)
