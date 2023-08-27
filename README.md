@@ -51,4 +51,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-Creado por [Tu Nombre](https://github.com/tu-usuario)
+Creado por [omar49511](https://github.com/omar49511)
