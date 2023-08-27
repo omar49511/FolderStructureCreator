@@ -33,6 +33,9 @@ Sigue las indicaciones para agregar la ruta:
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7c38104e-81bf-4271-a616-caf0b6be195f)
    
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/902b1f66-abcb-417e-b911-ba9d0fa401ca)
+
+   ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/c24c88dc-35d2-4089-9c74-1be96cd8262b)
+
   
 3. ¡Listo! La estructura de carpetas y archivos se generará en la carpeta actual.
    
