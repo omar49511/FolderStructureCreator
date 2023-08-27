@@ -26,7 +26,7 @@ Sigue las indicaciones para agregar la ruta:
 
 ## Uso
 
-1. Ejecuta el comando `mpa nombre_del_proyecto` en la terminal.
+1. Ejecuta el comando ```mpa nombre_del_proyecto``` en la terminal.
    
    ![image](https://github.com/omar49511/FolderStructureCreator/assets/72781778/7ca1d802-791a-4f52-98b7-93ea329cee97)
 
